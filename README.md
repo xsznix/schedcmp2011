@@ -6,6 +6,11 @@ This is the original version of Schedule Comparinator! Most of this code was wri
 
 Good luck.
 
+
+## Credits
+
+CodeIgniter is included in the source code.
+
 ## License
 
 Copyright (c) 2013, Yash Aggarwal, Xuming Zeng
