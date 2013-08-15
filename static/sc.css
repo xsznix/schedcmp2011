@@ -1,0 +1,5 @@
+.note { font-size: 12px; color: #888; }
+p, th, td, li, h2, h3 { font-size: 16px; font-family: sans-serif; color: #444; }
+span, a, li { font-family: sans-serif; }
+body { width: 280px; margin-left: auto; margin-right: auto; border-left: 1px dashed #888; border-right: 1px dashed #888; padding: 8px; }
+a { font-size: 12px; }

@@ -1,0 +1,39 @@
+/* http://www.zurb.com/article/271/making-forms-convert-through-awesome-inli */
+form span.wrap 
+    { position: relative; }
+form span.wrap label	 
+    { position: absolute; 
+      left: 6px; 
+      top: -6px; 
+			font-family: sans-serif; 
+      font-size: 16px; 
+      font-weight: normal; 
+      /*width: 150px;*/ height: 30px; 
+      background: none; 
+      border-radius: 2px; 
+      z-index: 1; 
+      line-height: 27px; }
+form span.wrap label span 
+    { position: relative; 
+      top: 1px; 
+      left: 1px; }
+form input.input-text 
+    { font-size: 16px; 
+      padding: 4px 5px;  
+      background: none;
+			border: 1px solid #ccc;
+			border-radius: 2px; 
+      position: relative; 
+      z-index: 10; }
+
+label.overlay span 
+    { color: #a0a0a0; }
+label.focus span 
+    { color: #ccc;
+label.hastext span 
+    { color: #fff; }
+
+form input.input-text:focus
+{
+	border-color: #999;
+}
